@@ -16,3 +16,5 @@ Employee directory which pulls from an API to populate an employee table.
 * Javascript
 
 ## Deployment
+
+https://employeedirectreact.herokuapp.com/
