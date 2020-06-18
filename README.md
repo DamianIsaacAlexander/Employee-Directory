@@ -17,4 +17,4 @@ Employee directory which pulls from an API to populate an employee table.
 
 ## Deployment
 
-https://employeedirectreact.herokuapp.com/
+https://agile-forest-88730.herokuapp.com/
